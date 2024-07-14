@@ -130,7 +130,7 @@ function changeImage() {
           }
       });
       if (imageElement) {
-          imageElement.src = "camion.png";
+          imageElement.src = "Camion.png";
           imageElement.style.display = "block";
       }
   } else {
